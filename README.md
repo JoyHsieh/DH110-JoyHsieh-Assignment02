@@ -9,6 +9,8 @@ From the [heuristic evaluation](https://github.com/JoyHsieh/DH110-JoyHsieh-Assig
 This usability test was conducted with a pilot tester that had never used the website before to give insight on how it could be improved from the user's perspective.
 ## Process & Materials
 This test was conducted using Zoom. The participant filled out this [Google Form survey](https://forms.gle/pEV1z25oqj9KdQSY8) on a computer and had their reactions recorded. The survey consisted of:
+* introduction
+* informed consent
 * background questions
 * pre-test questions
 * 3 usability tasks
@@ -23,7 +25,7 @@ This was a pilot test that was conducted in order to test the setting and materi
 _view the video by clicking above or using this link: https://www.youtube.com/watch?v=mPn5W0ciOvQ_
 ## Summary of Findings & Reflection
 ### What I learned
-This test taught me how valuable it is to have a novel user take a look at the website because they can validate your findings and uncover even more issues. From a technical point of view, I learned how to set up a comprehensive usability testing survey and how to upload a video to YouTube.
+This test taught me how valuable it is to have a novel user take a look at the website because they can validate your findings and uncover even more issues. The participant also had difficulty identifying where to perform certain tasks, like write a story. Overall, the strong aesthetics of the website led the participant to have a postive view of the website, calling it "fresh", "familiar", "trustworthy", and "professional". However, the difficulty in performing some tasks was enough for the participant to also call the site "intimidating". Though he generally found the website easy to use, he recognized that it was unnecessarily complex. This will likely come into play more for the seniors, when complexity could be a deal breaker in usability. From a technical point of view, I learned how to set up a comprehensive usability testing survey and how to upload a video to YouTube.
 ### What went well
 I felt comfortable as the moderator since I have experience as a research assistant in a lab on campus. I also had no issues setting up the Zoom, downloading the video, or uploading it to YouTube. The participant was able to successfully complete some tasks, but not all which I think meant the tasks were well balanced. The participant caught on to some of the usability issues that I noticed but also uncovered some new ones.
 ### What didn't go so well
