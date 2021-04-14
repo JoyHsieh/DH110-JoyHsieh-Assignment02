@@ -31,4 +31,8 @@ I felt comfortable as the moderator since I have experience as a research assist
 ### What didn't go so well
 I forgot to add a link to the website and had the same question on my survey twice. The Zoom recording made the participant's face look a lot smaller than in the actual call, so it was hard to look at and analyze his reactions from the video after the fact. There were also some typos that made reading the prompts a bit clunky.
 ### How I want to improve
-Next time, I will review the survey or other testing materials more thoroughly to make sure that there are no errors. I will also practice reading the prompts to make the experience smoother for the participants.
+Next time, I will:
+* review the survey or other testing materials more thoroughly to make sure that there are no errors
+* practice reading the prompts to make the experience smoother for the participants
+* take more notes during the test so I can remember my observations about the user's observations
+* calibrate the tasks to better fit the usability issues
