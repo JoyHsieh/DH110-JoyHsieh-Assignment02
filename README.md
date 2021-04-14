@@ -22,3 +22,11 @@ This was a pilot test that was conducted in order to test the setting and materi
 
 _view the video by clicking above or using this link: https://www.youtube.com/watch?v=mPn5W0ciOvQ_
 ## Summary of Findings & Reflection
+### What I learned
+From a technical point of view, I learned how to set up a comprehensive usability testing survey and how to upload a video to YouTube. This test also taught me how valuable it is to have a novel user take a look at the website because they can validate your findings and uncover even more issues.
+### What went well
+I felt comfortable as the moderator since I have experience as a research assistant in a lab on campus. I also had no issues setting up the Zoom, downloading the video, or uploading it to YouTube. The participant was able to successfully complete some tasks, but not all which I think meant the tasks were well balanced. The participant caught on to some of the usability issues that I noticed but also uncovered some new ones.
+### What didn't go so well
+I forgot to add a link to the website and had the same question on my survey twice. The Zoom recording made the participant's face look a lot smaller than in the actual call, so it was hard to look at and analyze his reactions from the video after the fact. There were also some typos that made reading the prompts a bit clunky.
+### How I want to improve
+Next time, I will review the survey or other testing materials more thoroughly to make sure that there are no errors. I will also practice reading the prompts to make the experience smoother for the participants.
